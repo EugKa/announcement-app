@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/announcement-app/static/css/main.c5a2c933.chunk.css",
+    "main.js": "/announcement-app/static/js/main.a1424597.chunk.js",
+    "main.js.map": "/announcement-app/static/js/main.a1424597.chunk.js.map",
+    "runtime-main.js": "/announcement-app/static/js/runtime-main.fe8d545a.js",
+    "runtime-main.js.map": "/announcement-app/static/js/runtime-main.fe8d545a.js.map",
+    "static/js/2.e244f9f3.chunk.js": "/announcement-app/static/js/2.e244f9f3.chunk.js",
+    "static/js/2.e244f9f3.chunk.js.map": "/announcement-app/static/js/2.e244f9f3.chunk.js.map",
+    "index.html": "/announcement-app/index.html",
+    "static/css/main.c5a2c933.chunk.css.map": "/announcement-app/static/css/main.c5a2c933.chunk.css.map",
+    "static/js/2.e244f9f3.chunk.js.LICENSE.txt": "/announcement-app/static/js/2.e244f9f3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fe8d545a.js",
+    "static/js/2.e244f9f3.chunk.js",
+    "static/css/main.c5a2c933.chunk.css",
+    "static/js/main.a1424597.chunk.js"
+  ]
+}
