@@ -1,0 +1,26 @@
+.form-page {
+    display: flex;
+    justify-content: center;
+}
+
+.card {
+    margin: 10px 0;
+    width: 700px;
+    padding: 10px 20px;
+    &__form {
+        width: 100%;
+    }
+    &__form-wrapper {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+    }
+    &__form-custom-input {
+        margin: 11px 0 !important;
+    }
+    &__form-btn {
+        height: 55px;
+    }
+}
+
+
